@@ -1,5 +1,5 @@
 # Groovy-Server
-pls don't copy code go make ur own
+please don't copy code go make ur own
 (Script)
 Young groovy 2.0 is mourning his death
 G2.0 - What if google kills all of us
